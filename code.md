@@ -1,9 +1,9 @@
 To display code we normally use :
 INLINE CODE
-for example `const name = 'James ngandu'
+for example `const name = `James ngandu`
 
 CODE BLOCK
-we use ```to indicate a block of code 
+we use (```)to indicate a block of code 
   for example 
        ```
         const name = 'James ngandu';
