@@ -12,11 +12,10 @@ To indicate a block of code
         ```
 CODE HIGHLIGHTING
 This makes a code more clear by using colors, we introduce ts after the three   
-        ```ts
-        const name = 'James ngandu';
-        
-        console.log(name);
-        ```
+      ```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
 
 CODE DIFF
 This shows a difference between a line of code, we usually use negative sign(-) or positive sign (+)
